@@ -1,0 +1,7 @@
+echo Updates are found. Now updating
+sleep 1
+update=$(git fetch --all
+git reset --hard origin/master
+git pull)
+sleep 3
+clear

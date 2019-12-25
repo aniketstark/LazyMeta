@@ -1,2 +1,2 @@
-pkg install -y termux-api
+pkg install -y termux-api pv
 chmod +x lazymeta.sh
